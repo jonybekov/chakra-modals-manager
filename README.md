@@ -1,2 +1,5 @@
 # chakra-modals-manager
-Created with CodeSandbox
+
+Modals manager for chakra-ui.
+
+Inspired by https://mantine.dev/others/modals/
