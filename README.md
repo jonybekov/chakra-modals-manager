@@ -1,5 +1,5 @@
 # chakra-modals-manager
 
-Modals manager for chakra-ui.
+A port of Mantine modals manager for chakra-ui.
 
 Inspired by https://mantine.dev/others/modals/
